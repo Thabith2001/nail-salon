@@ -105,7 +105,7 @@ const Pricing = () => {
                     {/* Title */}
                     <h2 className="text-5xl md:text-7xl font-black leading-tight mb-8">
             <span className="block bg-gradient-to-r from-white via-pink-200 to-purple-200 bg-clip-text text-transparent drop-shadow-2xl">
-              Luxury That's
+              Luxury That&apos;s
             </span>
                         <span className="block bg-gradient-to-r from-pink-300 via-rose-200 to-white bg-clip-text text-transparent drop-shadow-2xl">
               Worth Every Penny

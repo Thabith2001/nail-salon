@@ -324,7 +324,7 @@ const Contact = () => {
                             {formStatus === 'success' && (
                                 <div
                                     className="p-4 bg-green-500/20 border border-green-500/30 rounded-xl text-green-300 text-center">
-                                    Thank you! We'll contact you within 2 hours to confirm your appointment.
+                                    Thank you! We&apos;ll contact you within 2 hours to confirm your appointment.
                                 </div>
                             )}
                         </form>

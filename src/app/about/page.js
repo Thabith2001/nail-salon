@@ -110,7 +110,7 @@ const About = () => {
                         {/* Story Content */}
                         <div className="max-w-4xl mx-auto space-y-6 mb-16">
                             <p className="text-xl md:text-2xl text-white/80 leading-relaxed font-light">
-                                Welcome to <span className="font-semibold bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent">Lotus Spa</span>, where artistry meets luxury in every detail. We've dedicated ourselves to redefining nail care through exceptional service and innovative techniques.
+                                Welcome to <span className="font-semibold bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent">Lotus Spa</span>, where artistry meets luxury in every detail. We&apos;ve dedicated ourselves to redefining nail care through exceptional service and innovative techniques.
                             </p>
 
                             <p className="text-lg md:text-xl text-white/70 leading-relaxed">
